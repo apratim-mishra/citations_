@@ -308,20 +308,3 @@ python main.py --task link_prediction --loss_type enhanced_bpr
 python main.py --task link_prediction --loss_type adaptive
 ```
 
-## Citation
-
-If you find this framework useful for your research, please consider citing our work:
-
-```bibtex
-@misc{citation-graph-analysis,
-  author = {Your Name},
-  title = {Citation Graph Analysis Framework},
-  year = {2025},
-  publisher = {GitHub},
-  howpublished = {\url{https://github.com/yourusername/citation-graph-analysis}}
-}
-```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
